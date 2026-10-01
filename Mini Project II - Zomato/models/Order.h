@@ -107,7 +107,7 @@ class Order
         void setTotal(int total) {
             this->total = total;
         }
-}
+};
 
 Order* Order::nextOrderId = 0;
 

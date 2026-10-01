@@ -43,6 +43,6 @@ class MenuItem
         void setPrice(int p) {
             price = p;
         }
-}
+};
 
 #endif

@@ -74,6 +74,6 @@ class Cart
         const vector<MenuItem>& getItems() const {
             return items;
         }
-}
+};
 
 #endif

@@ -26,5 +26,5 @@ class DeliveryOrder : public Order
         string getUserAddress() const {
             return userAddress;
         }
-}
+};
 #endif
